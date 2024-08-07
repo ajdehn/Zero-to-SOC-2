@@ -1,4 +1,4 @@
-# Zero-to-SOC-2
+# Zero to SOC 2
 This repository is a playbook for how to get SOC 2 in record time. 
 
 ### Who wrote this playbook:
