@@ -1,7 +1,7 @@
 # Zero-to-SOC-2
 This repository is a playbook for how to get SOC 2 in record time. 
 
-## Who wrote this playbook:
+### Who wrote this playbook:
 This playbook was written by AJ Dehn (???).
 
 ### Who is this playbook for:
