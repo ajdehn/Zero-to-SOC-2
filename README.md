@@ -2,7 +2,7 @@
 This repository is a playbook for how to get SOC 2 in record time. 
 
 ### Who wrote this playbook:
-This playbook was written by AJ Dehn (???).
+- AJ Dehn (Managing Director at Eden Data).
 
 ### Who is this playbook for:
 This playbook is built exclusively for companies with the following tech stack:
