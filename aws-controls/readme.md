@@ -4,6 +4,8 @@
 #### Secure IAM
 1. Enable MFA on root AWS Account
 
+#### Secure RDS
+
 ####Tag cloud resources:
 3. Tag your AWS storage (S3 buckets buckets (Owner, Description, Classification)
 4. Tag 
