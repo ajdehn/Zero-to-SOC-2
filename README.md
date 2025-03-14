@@ -20,8 +20,9 @@ A lot of consultants will tell you to start with policies. In my experience, tha
 For a full list of controls, check out this page.
 
 ### Step ??: Collect Documents:
-1. Org Chart
-2. 
+1. Active Cyberinsurance policy
+2. Org Chart
+3. 
 
 ### Step ??: Complete required activities.
 1. Conduct a Business Continuity / Disaster Recovery test (simulate what your organization would do in the event of a disaster).
