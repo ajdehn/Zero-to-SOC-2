@@ -1,7 +1,7 @@
 # Zero to SOC 2
 This repository is a playbook for how to get SOC 2 in record time. 
 
-### Who wrote this playbook:
+### Authors:
 - [AJ Dehn](https://www.linkedin.com/in/ajdehn/) (Managing Director at Eden Data).
 
 ### Who is this playbook for:
